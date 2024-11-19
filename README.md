@@ -11,8 +11,8 @@ Software Engineering ⚙️
 - 🎎 **Video Games:** osu!
 
 ## GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=MegumiKatou02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MegumiKatou02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=600&v=1)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MegumiKatou02&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MegumiKatou02&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=600&v=1)
 
 ---
 ![snake gif](https://github.com/MegumiKatou02/MegumiKatou02/blob/output/github-snake.svg)
