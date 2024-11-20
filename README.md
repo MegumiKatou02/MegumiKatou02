@@ -8,7 +8,7 @@ Software Engineering ⚙️
 ### About Me
 - 🌺 **Interests:** Anime/Manga
 - ✒️ **Habits:** Exploring, Researching
-- 💬 **Languages:** Vietnamese, Japanese
+- 💬 **Languages:** Vietnamese, Japanese, English
 - 🎎 **Video Games:** osu!
 
 ## GitHub Stats
