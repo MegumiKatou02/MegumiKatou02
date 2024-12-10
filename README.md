@@ -21,3 +21,5 @@ Software Engineering ⚙️
 
 ---
 ![snake gif](https://github.com/MegumiKatou02/MegumiKatou02/blob/output/github-snake.svg)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/yukiooki_)
