@@ -11,8 +11,14 @@ Software Engineering ⚙️
 - 💬 **Languages:** Vietnamese, Japanese, English
 - 🎎 **Video Games:** osu!
 
+
 ## GitHub Stats
+<img src="https://i.pinimg.com/736x/41/37/ce/4137ce9b05fb9cfd8bd1cb97d3748860.jpg" width="300" align="right" style="border: 5px solid #ff6347; border-radius: 50%; object-fit: cover;" />
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MegumiKatou02&theme=default_repocard&hide_border=false&cache_seconds=600&v=1)<br/>
+
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MegumiKatou02&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=600&v=1)
 ## Discord
 <a href="https://discord.com/users/604949724788817920"  align="left">
