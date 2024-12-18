@@ -16,7 +16,9 @@ Software Engineering ⚙️
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MegumiKatou02&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=600&v=1)
 ## Discord
 <a href="https://discord.com/users/604949724788817920"  align="left">
-       <img src = "https://lanyard.cnrad.dev/api/604949724788817920?idleMessage=Kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20c%E1%BA%A3%20%3A3">
+       <!-- <img src = "https://lanyard.cnrad.dev/api/604949724788817920?idleMessage=Kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20c%E1%BA%A3%20%3A3"> -->  
+       <!-- thanks k.y.r.i.e.2.5 for Discord Presence in GitHub Profile -->  
+       <img src = "https://lanyard.kyrie25.dev/api/604949724788817920?useDisplayName=true&imgStyle=square&imgBorderRadius=15px&gradient=645CBB-A084DC-BFACE2-EBC7E6">
 </a>
 
 ---
