@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
-## Hi, I'm Chinh (Yukiooki_) <a href="#"><img src="https://i.imgur.com/LATSmAA.png" style="width: 1em; transform: translateY(25%);" /></a>
+## Hi, I'm Chinh (Yukiookii) <a href="#"><img src="https://i.imgur.com/LATSmAA.png" style="width: 1em; transform: translateY(25%);" /></a>
 
 <img src="https://i.pinimg.com/736x/ca/e8/aa/cae8aab6a5768657169f082da393b483.jpg" width="300" align="right">
        
