@@ -6,7 +6,7 @@
        
 ### I am the leader of the Haiku team.
 
-<br>
+<sub>  *I just want simple, casual words. Words that can make one say, “ah, so I could fall in love just like that…”* </sub>
 
 ### About Me
 - 🌺 **Interests:** Anime/Manga
