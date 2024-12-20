@@ -6,6 +6,8 @@
        
 ### I am the leader of the Haiku team.
 
+<br>
+
 ### About Me
 - 🌺 **Interests:** Anime/Manga
 - ✒️ **Habits:** Exploring, Researching
