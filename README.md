@@ -4,14 +4,13 @@
 
 <img src="https://i.pinimg.com/736x/ca/e8/aa/cae8aab6a5768657169f082da393b483.jpg" width="300" align="right">
        
-### What is my area of expertise?
-Software Engineering ⚙️
+### I am the leader of the Haiku team.
 
 ### About Me
 - 🌺 **Interests:** Anime/Manga
 - ✒️ **Habits:** Exploring, Researching
 - 💬 **Languages:** Vietnamese, Japanese, English
-- 🎎 **Video Games:** osu!
+- 🎎 **Video Games:** <img src="https://i.ppy.sh/013ed2c11b34720790e74035d9f49078d5e9aa64/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f4272616e645f6964656e746974795f67756964656c696e65732f696d672f75736167652d66756c6c2d636f6c6f75722e706e67" alt="." width="16" height="16"/> [osu!](https://osu.ppy.sh/), <img src="https://i.imgur.com/E7EUUH3.png" alt="." width="16" height="16"/> [Muse Dash](https://musedash.peropero.net/#/home)
 
 
 ## GitHub Stats
