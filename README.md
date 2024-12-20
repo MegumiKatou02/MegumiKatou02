@@ -4,7 +4,9 @@
 
 <img src="https://i.pinimg.com/736x/ca/e8/aa/cae8aab6a5768657169f082da393b483.jpg" width="300" align="right">
        
-### I am the leader of the Haiku team.
+<h3>
+  I am the leader of the <a href="https://github.com/Koteru-Haiku" style="color: blue; text-decoration: none; ">Haiku team</a>
+</h3>
 
 <sub>  *I just want simple, casual words. Words that can make one say, “ah, so I could fall in love just like that…”* </sub>
 
