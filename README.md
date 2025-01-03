@@ -22,7 +22,7 @@
 
 <!--  ![](https://github-readme-streak-stats.herokuapp.com/?user=MegumiKatou02&theme=default_repocard&hide_border=false&cache_seconds=600&v=1)<br/> -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MegumiKatou02&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=6000&v=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MegumiKatou02&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=600&v=1)
 ## Discord & Spotify
 
 <a href="https://discord.com/users/604949724788817920" >
