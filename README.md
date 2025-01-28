@@ -23,7 +23,7 @@
 <!--  ![](https://github-readme-streak-stats.herokuapp.com/?user=MegumiKatou02&theme=default_repocard&hide_border=false&cache_seconds=600&v=1)<br/> -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MegumiKatou02&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=6000&v=1)
-## Discord & Spotify
+## Discord
 
 <a href="https://discord.com/users/604949724788817920" >
        <!-- <img src = "https://lanyard.cnrad.dev/api/604949724788817920?idleMessage=Kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20c%E1%BA%A3%20%3A3"> -->  
@@ -33,7 +33,7 @@
        <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uoe4jzedryeongjz5ymntipfvq&count=2" alt="Spotify Recently Played" align="right" >  -->
 
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31uoe4jzedryeongjz5ymntipfvq&count=2&unique=true" alt="Spotify Recently Played" >
+<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uoe4jzedryeongjz5ymntipfvq&count=2&unique=true" alt="Spotify Recently Played" > -->
 
 ---
 ![snake gif](https://github.com/MegumiKatou02/MegumiKatou02/blob/output/github-snake.svg)
