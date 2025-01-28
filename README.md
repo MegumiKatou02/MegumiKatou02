@@ -33,7 +33,7 @@
        <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uoe4jzedryeongjz5ymntipfvq&count=2" alt="Spotify Recently Played" align="right" >  -->
 
 
-<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uoe4jzedryeongjz5ymntipfvq&count=2&unique=true" alt="Spotify Recently Played" > -->
+<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uoe4jzedryeongjz5ymntipfvq&count=2&unique=true" alt="Spotify Recently Played"  chuc mung nam moi 2025 <(")> -->
 
 ---
 ![snake gif](https://github.com/MegumiKatou02/MegumiKatou02/blob/output/github-snake.svg)
