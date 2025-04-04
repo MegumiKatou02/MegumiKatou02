@@ -3,10 +3,10 @@
 ## Hi, I'm Yukiookii <a href="#"><img src="https://i.imgur.com/LATSmAA.png" style="width: 1em; transform: translateY(25%);" /></a>
 
 <img src="https://i.pinimg.com/736x/3a/1a/b3/3a1ab34f7c7655a02aa07762e4085236.jpg" width="250" align="right">
-       
-<h3>
+<!--  <h3>
   I am the leader of the <a href="https://github.com/Koteru-Haiku" style="color: blue; text-decoration: none; ">Haiku team</a>
-</h3>
+</h3>  -->
+
 
 <sub>  *I just want simple, casual words. Words that can make one say, “ah, so I could fall in love just like that…”* </sub>
 
