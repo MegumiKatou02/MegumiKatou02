@@ -4,7 +4,7 @@
 </h3>  -->
 
 <div align="center">
-	<img src="assets/kawaii.png" width="570">
+	<img src="assets/kawaiiv2.png" width="570">
 </div>
 
 </br></br>
