@@ -19,14 +19,13 @@
 
 ## Discord & GitHub Stats
 
-<div>
-
-<a href="https://discord.com/users/604949724788817920" style="display:flex; gap: 20px">
-       <!-- <img src = "https://lanyard.cnrad.dev/api/604949724788817920?idleMessage=Kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20c%E1%BA%A3%20%3A3"> -->  
-       <!-- thanks k.y.r.i.e.2.5 for Discord Presence in GitHub Profile -->  
-       <img src = "https://lanyard.kyrie25.dev/api/604949724788817920?useDisplayName=true&imgStyle=square&imgBorderRadius=15px&gradient=645CBB-A084DC-BFACE2-EBC7E6">
-       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MegumiKatou02&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=6000&v=1" height="200">
-</a>
+<div align="center">
+	<a href="https://youtu.be/g_cJKcHtYag?si=bTtek0FLu2xlD5AS"><img src="https://lanyard.kyrie25.dev/api/604949724788817920?showBanner=false&bannerFilter=brightness(0.6)&imgStyle=square" /></a>  
+	<a href="https://www.youtube.com/watch?v=PSwR6c8iV6o"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31uoe4jzedryeongjz5ymntipfvq&unique=true&count=3" height=200 /></a>
+</div>
+<div align="center">
+	<a href="http://kyrie25.dev"><img src="https://github-readme-stats.vercel.app/api?username=MegumiKatou02&include_all_commits=true&show_icons=true&count_private=true&custom_title=GitHub+Stats&theme=react&hide_border=true" width=400 /></a>
+	<a href="http://kyrie25.dev"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MegumiKatou02&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true" height=167 />  </a>
 </div>
        <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uoe4jzedryeongjz5ymntipfvq&count=2" alt="Spotify Recently Played" align="right" >  -->
 
