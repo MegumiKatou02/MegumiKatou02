@@ -19,8 +19,8 @@
 </div>
 </br>
 <div align="center">
-<sub>  *ただ、もっとシンプルでカジュアルな言葉がほしい。
-「ああ、こんなふうに恋に落ちることもあるんだ…」って思えるような言葉。* </sub>
+<sub>ただ、もっとシンプルでカジュアルな言葉がほしい。
+「ああ、こんなふうに恋に落ちることもあるんだ…」って思えるような言葉。</sub>
 </div>
 
 <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uoe4jzedryeongjz5ymntipfvq&count=2&unique=true" alt="Spotify Recently Played"  chuc mung nam moi 2025 5rd <(")> -->
