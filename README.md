@@ -1,5 +1,5 @@
 
-<!--  <h3>
+<!-- <a href="https://youtu.be/g_cJKcHtYag?si=bTtek0FLu2xlD5AS"><img src="https://lanyard.kyrie25.dev/api/604949724788817920?showBanner=true&bannerFilter=brightness(0.6)&imgStyle=square" /></a>    <h3>
   I am the leader of the <a href="https://github.com/Koteru-Haiku" style="color: blue; text-decoration: none; ">Haiku team</a>
 </h3>  -->
 
@@ -10,7 +10,6 @@
 </br></br>
 
 <div align="center">
-	<a href="https://youtu.be/g_cJKcHtYag?si=bTtek0FLu2xlD5AS"><img src="https://lanyard.kyrie25.dev/api/604949724788817920?showBanner=true&bannerFilter=brightness(0.6)&imgStyle=square" /></a>  
 	<a href="https://www.youtube.com/watch?v=PSwR6c8iV6o"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31uoe4jzedryeongjz5ymntipfvq&unique=true&count=3" height=200 /></a>
 </div>
 <div align="center">
